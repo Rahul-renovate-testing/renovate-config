@@ -1,4 +1,7 @@
 {
   // use this schema it is good
-  "$schema": "https://docs.renovatebot.com/renovate-schema.json"
+  "$schema": "https://docs.renovatebot.com/renovate-schema.json",
+
+  // add labels to prs created by renovate
+  "labels": ["renovate"]
 }

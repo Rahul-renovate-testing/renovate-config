@@ -3,5 +3,8 @@
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
 
   // add labels to prs created by renovate
-  "labels": ["renovate"]
+  "labels": ["renovate"],
+
+  // create 10 prs at one time
+  "prHourlyLimit": 10
 }

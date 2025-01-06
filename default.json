@@ -1,0 +1,10 @@
+{
+  "hostRules": [
+    {
+      "encrypted": {
+        "kuiasdbckasdbcasd"
+      },
+      "matchHost": "github"
+    }
+  ]
+}

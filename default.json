@@ -2,7 +2,7 @@
   "hostRules": [
     {
       "encrypted": {
-        "kuiasdbckasdbcasd"
+        "token": "kuiasdbckasdbcasd"
       },
       "matchHost": "github"
     }
